@@ -57,7 +57,7 @@ Cookieの使用、Google Analytics等のアクセス解析ツールの導入は�
 
 ## お問い合わせ
 
-本ポリシーや本拡張機能の情報の取り扱いに関するお問い合わせは、[GitHub Issues](https://github.com/moyashi0815/yokokurabe-template/issues)よりお願いします(専用の問い合わせフォームは準備中です)。
+本ポリシーや本拡張機能の情報の取り扱いに関するお問い合わせは、[不具合報告フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdybMfhfJ6CeHcgJjhffhbbu6koNLXKoBgU7TUjknUxTDex4w/viewform)よりお願いします。
 
 ## 改定
 
